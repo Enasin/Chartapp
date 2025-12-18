@@ -1,13 +1,13 @@
 {
-  "name": "chat-app",
+  "name": "chartapp",
   "version": "1.0.0",
-  "description": "Simple socket.io chat app",
+  "description": "Realtime chat app with socket.io",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "socket.io": "^4.7.5"
+    "socket.io": "^4.7.2"
   }
 }
